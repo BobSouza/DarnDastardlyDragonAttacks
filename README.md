@@ -2,6 +2,7 @@ DarnDastardlyDragonAttacks
 ==========================
 
 Little game I put together for an extra credit project. 
+v2.0: No changes yet. Stay tuned.
 
 v1.0:
 Text-based castle defense with a moderately complex tax and dragon targeting system.
